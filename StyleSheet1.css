@@ -1,0 +1,30 @@
+﻿
+body {
+    background-image: url(g.jfif);
+}
+    
+    .subtitulos {
+    font-family: 'Arial Rounded MT';
+    color: crimson;
+    text-align: left;
+    font-weight: bold;
+    
+}
+.sub2 {
+    font-family: 'Arial Rounded MT';
+    color:aqua;
+    text-align: left;
+    font-weight: bold;
+
+
+    
+}
+
+article {
+
+    border:dashed
+}
+
+ section{
+    border:groove
+}
